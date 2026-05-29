@@ -1,16 +1,15 @@
-## Hi there 👋
+# Portfolio Project Setup
 
-<!--
-**sempatitambunan1993/sempatitambunan1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tools Installed
+- Cursor IDE
+- Claude Code Extension
+- Codex Extension
 
-Here are some ideas to get you started:
+## Steps Completed
+1. Downloaded and installed Cursor IDE.
+2. Installed Claude Code and Codex extensions inside Cursor.
+3. Created a public GitHub repository.
+4. Created and updated this README.md file.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Issues Faced and Solutions
+Everything went smoothly during the installation and setup process. No significant issues were encountered.
